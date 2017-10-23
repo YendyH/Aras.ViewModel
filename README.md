@@ -11,7 +11,7 @@ Aras View Model provides a .NET library for building [Aras Innovator](http://www
  * [Aras.IO](https://github.com/ArasExtensions/Aras.IO)
  * [Aras.Model](https://github.com/ArasExtensions/Aras.Model)
 
-## Licence
+## License
 
 Copyright 2017 [Processwall Limited](http://www.processwall.com).
 
